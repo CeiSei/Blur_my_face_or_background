@@ -1,2 +1,2 @@
-# Blur_my_face_or_background
+# Motion Detector Using Image Transformation
 It helps to blur your face or background from the video that webcam shooting you.
